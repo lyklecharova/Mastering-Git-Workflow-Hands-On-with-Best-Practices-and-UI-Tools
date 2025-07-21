@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 # log files
 *.log
 npm-debug.log*
 
 # Dependency directories
 node_modules/
+=======
+.env
+>>>>>>> b8cb7fa (Add .gitignore)
